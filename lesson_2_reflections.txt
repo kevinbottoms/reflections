@@ -16,3 +16,7 @@ seems interesting.
 The diagrams were very helpful in visualizing what and how Git is actually
 doing what it does. After learning more about branching I think it is a great
 way to do work alone and definitely with others.
+
+Merging seems to be a great way for an individual to bring together two or more
+versions or features, but is even better for multiple people working on a
+project.
