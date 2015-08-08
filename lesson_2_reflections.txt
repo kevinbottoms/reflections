@@ -1,0 +1,6 @@
+It looks like initializing a repository is what adds the Git framework into the
+directory, which allows for version control.
+
+Being able to have complete control over which files get committed together
+offers the developer the ability to be as specific as he/she wants to be
+when constructing a commit.
