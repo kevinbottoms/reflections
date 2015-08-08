@@ -20,3 +20,6 @@ way to do work alone and definitely with others.
 Merging seems to be a great way for an individual to bring together two or more
 versions or features, but is even better for multiple people working on a
 project.
+
+In the event that Git cannot figure out how to merge two files it will throw
+and error, this conflict needs to be resolved before the merge can take place.
