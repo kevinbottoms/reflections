@@ -8,3 +8,7 @@ when constructing a commit.
 The staging area is great for this fine level of control. It also allows for
 comparison between the working directory, the staging area and the latest
 commit.
+
+Branching seems to be a good tool for either having multiple different versions
+of a program or maybe some test ones. The ability to split and redirect
+seems interesting.
