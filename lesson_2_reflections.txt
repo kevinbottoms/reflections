@@ -12,3 +12,7 @@ commit.
 Branching seems to be a good tool for either having multiple different versions
 of a program or maybe some test ones. The ability to split and redirect
 seems interesting.
+
+The diagrams were very helpful in visualizing what and how Git is actually
+doing what it does. After learning more about branching I think it is a great
+way to do work alone and definitely with others.
