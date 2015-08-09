@@ -1,3 +1,8 @@
-It seems to me that commiting on your local computer gives a higher level of control, while 
-pulling from github can be good when mutliple people are working on a project, or when you are
-using more than one machine to develop.
+It seems to me that committing on your local computer gives a higher level of
+control, while pulling from github can be good when multiple people are working
+on a project, or when you are using more than one machine to develop.
+
+Having GitHub pull all of the commits you make may release code to the public
+(or other team members) before you would like to. The commit you made may be
+a good place for you, but still not ready for release. Manual pushes help
+prevent this.
