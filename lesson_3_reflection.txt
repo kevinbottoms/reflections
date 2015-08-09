@@ -11,3 +11,8 @@ The differences between clone and fork is subtle, basically a fork is done
 on github and is a clone of someone else's repository. It is cloned to your
 account and then you can mess with it starting from the last commit done by
 its creator.
+
+Merging seems to be something that I need to spend more time with. The power
+of it seems clear, but I need some more hands on work with it. The advantage
+to having the origins last known commit saved helps when there are multiple
+people working on the same branch and they need to merge repositories.
