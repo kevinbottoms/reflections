@@ -1,0 +1,3 @@
+It seems to me that commiting on your local computer gives a higher level of control, while 
+pulling from github can be good when mutliple people are working on a project, or when you are
+using more than one machine to develop.
