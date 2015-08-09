@@ -16,3 +16,7 @@ Merging seems to be something that I need to spend more time with. The power
 of it seems clear, but I need some more hands on work with it. The advantage
 to having the origins last known commit saved helps when there are multiple
 people working on the same branch and they need to merge repositories.
+
+Collaborating without something like github would involve a lot of emailing
+and overhead to track everyones changes. It would be possible, but very
+difficult to get right.
