@@ -6,3 +6,8 @@ Having GitHub pull all of the commits you make may release code to the public
 (or other team members) before you would like to. The commit you made may be
 a good place for you, but still not ready for release. Manual pushes help
 prevent this.
+
+The differences between clone and fork is subtle, basically a fork is done
+on github and is a clone of someone else's repository. It is cloned to your
+account and then you can mess with it starting from the last commit done by
+its creator.
